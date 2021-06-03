@@ -16,7 +16,7 @@ I also wrote and maintain [Deschtimes](https://github.com/ianmitchell/deschtimes
 
 ## Find me out and about
 
-👾 Desch#3091 (I have a [community server you can join](https://ianmitchell.dev/discord) too!)
+👾 Desch#3091 (I have a [community server you can join](https://discord.gg/ian) too!)
 
 🌐 [ianmitchell.dev](https://ianmitchell.dev)
 
