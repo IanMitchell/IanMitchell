@@ -6,11 +6,15 @@
 
 I've been spending the past year in quarantine updating my personal blog and writing articles elsewhere, which has lead to a focus on blog software and discord utilities.
 
-[Ramble](https://github.com/ianmitchell/ramble) is an IndieWeb blogging platform I've been trying to invest more time into. It's not anything special right now, but I do have some fun plans for it. I hope to replace a few Ghost blogs I run with it.
+[Interaction Kit](https://github.com/ianmitchell/interaction-kit) is a Discord HTTP bot framework I'm using to learn more about the Discord API and TypeScript.
+
+[sentrydiscord.dev](https://github.com/ianmitchell/sentrydiscord.dev) is a popular tool I developed for forwarding sentry alerts to a Discord server.
 
 My [personal website](https://github.com/ianmitchell/ianmitchell.dev) is a little more developer-focused, relying on MDX and custom CSS to give me maximum flexibility with my content.
 
-[Aquarius](https://github.com/ianmitchell/aquarius), [sentrydiscord.dev](https://github.com/ianmitchell/sentrydiscord.dev), [discord-notifier](https://github.com/ianmitchell/discord-notifier), and [jest-discord](https://github.com/ianmitchell/jest-discord) are all bots and related tooling I've developed as more and more of my services centralize around Discord. I have a few other Discord bots and projects around, too.
+[Ramble](https://github.com/ianmitchell/ramble) is an IndieWeb blogging platform I've been trying to invest more time into. It's not anything special right now, but I do have some fun plans for it. I hope to replace a few Ghost blogs I run with it.
+
+[Aquarius](https://github.com/ianmitchell/aquarius) is a Discord bot I've been maintaining for several years now that has found a niche use in some Discord communities.
 
 I also wrote and maintain [Deschtimes](https://github.com/ianmitchell/deschtimes), a project-management solution for foreign media translation groups.
 
